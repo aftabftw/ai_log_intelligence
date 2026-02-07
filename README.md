@@ -13,7 +13,7 @@ Real-time log monitoring system with AI-powered root cause analysis.
 ## Tech Stack
 Java, Spring Boot, PostgreSQL  
 React, Tailwind, Chart.js  
-WebSocket, Ollama (DeepSeek)
+WebSocket, Ollama (Mistral)
 
 ## Run Backend
 cd backend
