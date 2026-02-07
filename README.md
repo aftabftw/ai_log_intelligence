@@ -25,4 +25,4 @@ npm install
 npm run dev
 
 ## Run AI
-ollama run deepseek-r1:8b
+ollama run mistral
